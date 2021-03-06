@@ -1,0 +1,3 @@
+[submodule "typing-game"]
+	path = typing-game
+	url = https://github.com/task58/typing-game.git
