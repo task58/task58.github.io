@@ -1,0 +1,3 @@
+[submodule "changeletterstokatakana"]
+	path = changeletterstokatakana
+	url = https://github.com/task58/ChangeLettersToKatakana.git
